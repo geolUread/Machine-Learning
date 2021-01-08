@@ -1,0 +1,4 @@
+I had to do a credit card fraud assignment for a machine learning assignment. 
+Purpose of the assignment was to find a machine model that best predicted fraud with the least false positives. 
+I had to choose between Random Forest and Isolation Forest for accomplishing the task defined.
+The dataset can be found at the website  --> https://www.kaggle.com/mlg-ulb/creditcardfraud.
